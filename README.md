@@ -1,5 +1,7 @@
 # redistore
 
+This is a fork of boj/redistore that updates the redigo dependency to use 1.8.4 (the real latest version as of writing this), as opposed to 2.0.0+incompatible.
+
 [![GoDoc](https://godoc.org/github.com/boj/redistore?status.svg)](https://godoc.org/github.com/boj/redistore)
 [![Build Status](https://travis-ci.org/boj/redistore.svg?branch=master)](https://travis-ci.org/boj/redistore)
 
